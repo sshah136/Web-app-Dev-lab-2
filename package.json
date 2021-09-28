@@ -1,0 +1,16 @@
+{
+  "name": "week2",
+  "version": "0.0.1",
+  "description": "demo project for comp229 lab",
+  "main": "index.js",
+  "author": "Sahil Shah",
+  "license": "MIT",
+  "scripts": 
+  {
+    "start": "node index.js"
+  },
+  "devDependencies": 
+  {
+    "@types/node": "^16.10.1"
+  }
+}
